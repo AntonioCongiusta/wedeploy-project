@@ -1,0 +1,10 @@
+{
+    "id": "cloudcommander",
+    "image": "amusarra/cloudcmd:v7.5.2",
+    "env": {
+	   "CLOUDCMD_AUTH": "true",
+	   "CLOUDCMD_USERNAME": "cloud_manager_root",
+	   "CLOUDCMD_PASSWORD": "M9cAvKtOuCIW0ZQSplybezvMdbM="
+    },
+    "volume": "/opt/liferay"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "karaf",
+    "image": "amusarra/apache-karaf",
+    "port": 8181,
+    "cpu": 1,
+    "scale": 1,
+    "memory": 2048,
+    "volume": "/deploy"
+}
