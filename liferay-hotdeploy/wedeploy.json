@@ -1,5 +1,5 @@
 {
-    "id": "liferay-hotdeploy",
+    "id": "hotdeploy",
     "image": "amusarra/liferay-hotdeploy:v1.14",
     "volume": "/opt/liferay"
 }
