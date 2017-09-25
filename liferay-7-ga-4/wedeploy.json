@@ -5,7 +5,7 @@
 	   "LIFERAY_URL_SECURITY_MODE": "domain",
 	   "LIFERAY_PUBLISH_GOGO_SHELL": "true"
     },
-    "image": "amusarra/liferay-portal:7-ce-ga4-tomcat-hsql-v1.5",
+    "image": "amusarra/liferay-portal:7-ce-ga4-tomcat-hsql-v1.6",
     "volume": "/opt/liferay",
     "memory": 4096,
     "cpu": 2
